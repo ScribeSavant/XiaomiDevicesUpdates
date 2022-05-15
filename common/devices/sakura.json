@@ -1,0 +1,18 @@
+{
+  "India Stable": {
+    "md5": "ad48898cf1",
+    "early_post": false
+  },
+  "India Developer": {
+    "md5": "e68a962f64",
+    "early_post": false
+  },
+  "China Stable": {
+    "md5": "81d8bc0ad2",
+    "early_post": false
+  },
+  "China Developer": {
+    "md5": "1201e8f9ea",
+    "early_post": false
+  }
+}

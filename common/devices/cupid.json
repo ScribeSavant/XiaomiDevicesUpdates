@@ -1,0 +1,26 @@
+{
+  "China Stable": {
+    "md5": "edd08d1d8b",
+    "early_post": false
+  },
+  "EEA Stable": {
+    "md5": "9b162cbd6f",
+    "early_post": false
+  },
+  "Global Stable": {
+    "md5": "7dc17b4278",
+    "early_post": false
+  },
+  "Russia Stable": {
+    "md5": "e687da3a9a",
+    "early_post": false
+  },
+  "Indonesia Stable": {
+    "md5": "1fc78a2c1e",
+    "early_post": false
+  },
+  "Taiwan Stable": {
+    "md5": "aa2db81c78",
+    "early_post": false
+  }
+}

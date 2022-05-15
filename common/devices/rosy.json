@@ -1,0 +1,22 @@
+{
+  "Global Stable": {
+    "md5": "25c20fae94",
+    "early_post": false
+  },
+  "Global Developer": {
+    "md5": "6563908eef",
+    "early_post": false
+  },
+  "China Stable": {
+    "md5": "010a5305c2",
+    "early_post": false
+  },
+  "China Developer": {
+    "md5": "27258193f0",
+    "early_post": false
+  },
+  "Russia Stable": {
+    "md5": "0fe3699e6f",
+    "early_post": false
+  }
+}

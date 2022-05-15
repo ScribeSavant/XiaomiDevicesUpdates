@@ -1,0 +1,30 @@
+{
+  "China Stable": {
+    "md5": "d60d892580",
+    "early_post": false
+  },
+  "EEA Stable": {
+    "md5": "db2b379891",
+    "early_post": false
+  },
+  "Global Stable": {
+    "md5": "35481701b3",
+    "early_post": false
+  },
+  "Indonesia Stable": {
+    "md5": "2595e3b802",
+    "early_post": false
+  },
+  "Russia Stable": {
+    "md5": "386f40d676",
+    "early_post": false
+  },
+  "Taiwan Stable": {
+    "md5": "aa6109c24f",
+    "early_post": false
+  },
+  "India Stable": {
+    "md5": "9ba8c8e1c3",
+    "early_post": false
+  }
+}

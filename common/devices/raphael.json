@@ -1,0 +1,22 @@
+{
+  "Global Stable": {
+    "md5": "edbf5f63e8",
+    "early_post": false
+  },
+  "China Stable": {
+    "md5": "f5fe3b4a6f",
+    "early_post": false
+  },
+  "India Stable": {
+    "md5": "0bfe71d0cd",
+    "early_post": false
+  },
+  "EEA Stable": {
+    "md5": "dd92b7128a",
+    "early_post": false
+  },
+  "Russia Stable": {
+    "md5": "c65314ceec",
+    "early_post": false
+  }
+}
