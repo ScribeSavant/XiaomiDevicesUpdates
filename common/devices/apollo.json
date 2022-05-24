@@ -9,7 +9,7 @@
   },
   "India Stable": {
     "md5": "7fa4f171f8",
-    "early_post": true
+    "early_post": false
   },
   "China Stable": {
     "md5": "460d89fe60",
@@ -20,7 +20,7 @@
     "early_post": true
   },
   "Russia Stable": {
-    "md5": "161f1a7c24",
+    "md5": "5e0cd1786b",
     "early_post": false
   },
   "Turkey Stable": {
