@@ -2,5 +2,13 @@
   "China Stable": {
     "md5": "4d8e90d2c3",
     "early_post": false
+  },
+  "EEA Stable": {
+    "md5": "caee2ce159",
+    "early_post": false
+  },
+  "India Stable": {
+    "md5": "5e382e693f",
+    "early_post": false
   }
 }
