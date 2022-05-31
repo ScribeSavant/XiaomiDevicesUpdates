@@ -1,6 +1,6 @@
 {
   "Global Stable": {
-    "md5": "e3cd6bc658",
+    "md5": "93ba45fe41",
     "early_post": false
   },
   "China Stable": {
@@ -8,11 +8,11 @@
     "early_post": false
   },
   "EEA Stable": {
-    "md5": "ff4ae422bf",
+    "md5": "79741c8289",
     "early_post": false
   },
   "India Stable": {
     "md5": "ff5e7830b8",
-    "early_post": true
+    "early_post": false
   }
 }
